@@ -12,3 +12,5 @@ Esto es un ejemplo del uso de Git
 - stage / index area
 - repositorio
 
+## Otros
+
